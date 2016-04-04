@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1459541460 source:c:\users\siddharth\desktop\newcashlog\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<SQLAPI.h>
+	<ctime>
+
+1450708252 c:\sqlapi\include\sqlapi.h
+	<windows.h>
+	<wchar.h>
+	<wctype.h>
+	<sys/time.h>
+	<types.h>
+	<sys/types.h>
+	<sys/timeb.h>
+	<time.h>
+	<stdarg.h>
+	<limits.h>
+	<string>
+	<hash_map>
+
